@@ -1,0 +1,1 @@
+This repository contains an example of a type mismatch error in ActionScript 3 when comparing strings using the strict equality operator (===).  The issue arises from potential whitespace differences between strings. The solution demonstrates how to properly handle string comparisons for robustness.
